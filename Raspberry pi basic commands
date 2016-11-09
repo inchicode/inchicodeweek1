@@ -1,3 +1,11 @@
-commands raspberri pi to shutdown sudo shutdown
-commands rapsberry pi to get update sudo apt-get update
-commands raspberry pi to install update sudo apt-get dist-upgrade
+commands raspberri pi to shutdown                       sudo shutdown -h
+commands raspberri pi to shutdown at 01:22am            shutdown -h 01:22
+commands rapsberry pi to poweroff straight away         sudo poweroff
+commands rapsberry pi to reboot                         sudo reboot
+commands rapsberry pi to get update                     sudo apt-get update
+commands raspberry pi to install update                 sudo apt-get dist-upgrade
+commands rapsberry pi to clear all code                 sudo clear
+commands rapsberry pi to open config menu               sudo raspi-config
+
+
+
