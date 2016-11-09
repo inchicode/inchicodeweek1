@@ -1,0 +1,3 @@
+commands raspberri pi to shutdown sudo shutdown
+commands rapsberry pi to get update sudo apt-get update
+commands raspberry pi to install update sudo apt-get dist-upgrade
